@@ -1,0 +1,14 @@
+body {
+  background-color: #eee; }
+
+h1 {
+  color: #ffffff; }
+
+.mybutton {
+  color: white;
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px; }
+
+/*# sourceMappingURL=style.css.map */

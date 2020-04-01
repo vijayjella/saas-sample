@@ -1,0 +1,66 @@
+$color-primary : #333;
+$color-white: #ffffff;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: $color-primary;
+}
+
+// @mixin button-format($btn-radius, $size) {
+//     color: $color-white;
+//     background-color: blue;
+//     width: $size;
+
+//     @if button-format{
+//         height: $size;
+//         border-radius: $size / 2;        
+//     }
+// }
+
+// .mybutton{
+//     @include button-format(true, 100px)
+// }
+
+// @mixin theme($theme-decide, $r, $g, $b, $size) {
+//     height: 100px;
+//     width: $size;
+//     border-radius: $size / 2;
+
+//     @if ($theme-decide == 1){
+//         background-color: rgba($r, $g, $b, .5);
+
+//     }
+//     @else if ($theme-decide == 2){
+//         background-color: rgba($r, $g, $b, .6);
+//     }
+//     @else{
+//         background-color: rgba($r, $g, $b, 1);
+//     }
+// }
+
+// .myblock{
+//     @include theme(1, 0, 255, 0, 100px);
+// }
+.myblock{
+    position: relative;
+    height: 20rem;
+    background-color: lightblue;
+}
+
+@mixin interpolation($changeable, $val1, $val2, $prop1, $prop2) {
+    height: 100px;
+    width: 100px;
+    background-#{$changeable}: $val1;
+    position: $val2;
+    #{$prop1} : 0;
+    #{$prop2} : 0;
+}
+
+.block-area{
+    @include interpolation(color, red, absolute, top, right);
+}

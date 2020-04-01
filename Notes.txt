@@ -1,0 +1,246 @@
+http://localhost/dpswarangal
+http://localhost/dpswarangal
+C:\xampp\htdocs\dpswarangal\wp-admin\options-general.php
+
+Vaccations
+travels
+Technologies
+infographics
+
+
+
+
+OMGTrip
+Lowfaredeal
+
+http://dev.tripsolver.net/review/Accessfares/accessfares
+http://dev.tripsolver.net/review/Accessfares/accessfares_multi
+
+<link type="text/css" rel="stylesheet" href="/onst1/css/colorpallettes.css" />
+<script src="/onst1/js/colorpalette.js"></script>
+
+Sabre, 
+Amadeus, 
+Allianz, 
+Convergepay, 
+BRB, 
+Hellosign, 
+Docusign, 
+NTC, 
+Azure, 
+Rackspace(Mailgun), 
+Ios, 
+Android, 
+Hotelbeds, 
+Bedsonline, 
+Kayak, 
+Skyscanner, 
+Wego, 
+Bookingbuddy, 
+and Mediaalpha.
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+Switch Online
+With TS-GO platform, it's quick, easy & affordable!
+Tripxol-GO Platform
+	
+Your agency online in less than 24 hours*
+http://phoeniciatraveldemo.tripxol.com/
+http://broldemo.tripxol.com/
+
+Flights, Hotels and Cruise Booking engine. Setup your own fares and start booking
+tomarrow lavanya
+results.aspx, thankyou.aspx, confirmation.aspx, tpx52_sr1.css
+
+.srch-middle-sec .inner-section .col-md-9{
+	padding: 0;
+}
+Tripspice Membership
+
+Blue : #2681FF  hover: #1e67cc
+
+Orange : #FF9500  hover: #e58500
+gray : #8592a6
+font-color: #0f294d
+#455873
+#dadfe6
+
+border-bottom: 1px solid #f0f2f5;
+background-color: #f5f7fa, #eaf0f3
+
+
+Dark Blue: #0066b3
+Light Blue: #00aeef
+
+https://www.youtube.com/watch?v=yK9Ln_YojFo&list=PLBOdaohjTONhaVqygz5880g1vW2paRZw_&index=8
+
+itenary block border: #d5d5d5
+fare rules modal popup
+
+Copyright etktcenter
+
+box-shadow: inset 0 0 6px -2px rgba(0,0,0, 0.2);
+
+#0054a6
+
+ASCX
+header.aspx
+
+CSS
+
+75063
+
+
+
+
+
+
+Now Introducing (NEW) tooltip
+Tripxol-Insta Platform
+Phone only fares Booking engine
+
+Bottom blue strip
+left
+Phone Only fares booking engine (Flights)
+Tripxol-Insta Platform
+
+
+
+right
+Tripxol-Go (Flights, Hotels and Cruises)
+
+
+<Script>
+$(document).ready(function(){
+$('#express-travel').carousel({
+    interval: 3000
+});
+});
+</script>
+
+https://moat.com/advertiser/cheapoair
+https://moat.com/advertiser/justfly-com?report_type=display
+https://moat.com/advertiser/vayama?report_type=display
+
+
+Tripxol-Insta platform
+
+Phone only Booking Engine -  How it works
+
+Request demo: click here
+Email for demo: demo@tripsolver.net
+Call us for demo: +1 (844) 238-8747
+
+
+
+
+
+Now Introducing 
+Phone only fares booking engine
+
+Tripxol-Insta Booking Engine
+
+Phone Image
+Quick Install and Selling Platform
+
+Highlight with Blue color
+No Transaction fees, Sell any fare with any discount you like, 
+No GDS connection required
+
+Button
+Get Started for Free
+Limited time offer
+
+
+Pricing page
+Tripxol Go
+(Most popular) on top of the table
+Remove border
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="filter-ph-num">
+    <i class="fa fa-phone-square"></i><span class="ng-binding">214-555 6666</span>
+</div>
+
+airbooking.ca
+
+Tripsolver Site Pages
+HomePage
+https://www.tripsolver.net/mobile-apps
+
+tickettrip, farehop - New logo Design
+
+
+CN Travel - colors
+Jetrip
+Allcheapfairs
+airbooking.ca
+
+
+
+/hotelbeds_hotels_b2c/wlm1/css/wlm1_sr1.css
+/cruisedemo.tripxol.com_MT_new/tpx2/style.css
+
+header CRUISES: /cruisedemo.tripxol.com_MT_new/ft1
+header HOTELS: /hotelbeds_hotels_b2c/ft1
+
+
+
+1st Slider
+https://www.tripsolver.net/booking-engine
+
+2nd Slider
+
+3rd Slider
+
+4th Slider
+https://www.tripsolver.net/verified-customer-booking
+
+5th Slider
+https://www.tripsolver.net/verified-customer-booking
+
+6th Slider
+https://www.tripsolver.net/mobile-apps
+
+
+
+The Complete Color Correction Process in Photoshop
+https://www.youtube.com/watch?v=WvVonq05ahE
+
+https://xd.adobe.com/view/ac65db3a-c33b-4776-5bd8-d53ae11845c3-da54/
+
+Adobe XD CC - 30 Tips & Tricks
+https://www.youtube.com/watch?v=ztWItS5NM2M
+
+
+Hi Sir, Today I have completed flytbook with hotels and cruises design changes. Once they deployed I 
+will apply the css and let you know.
+
+
+
+https://gardenzone.dexignlab.com/

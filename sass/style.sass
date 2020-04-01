@@ -1,0 +1,28 @@
+
+$color-primary : #eee
+$color-white : #ffffff
+$color-red : red
+
+body
+    background-color: $color-primary
+
+h1
+    color: $color-white
+
+
+@mixin button-format ( $round-button, $size ) 
+    color: white
+    background-color: blue
+    width: $size
+
+    @if $round-button 
+        height: $size
+        border-radius: $size / 2
+    
+
+
+.mybutton
+    @include button-format(true, 100px)
+
+
+
